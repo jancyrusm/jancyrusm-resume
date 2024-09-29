@@ -5,94 +5,108 @@
 \usepackage{geometry}
 \usepackage{multicol}
 \usepackage{tabularx}
-\usepackage{setspace} % For line spacing control
-\geometry{top=0.7in, bottom=0.7in, left=0.5in, right=0.5in} 
+\usepackage{setspace}
+\usepackage[none]{hyphenat}
+\geometry{top=0.7in, bottom=0.7in, left=0.5in, right=0.5in}
 
 \hypersetup{
     colorlinks=false,
-    urlcolor=blue,
-    linkcolor=blue
+    urlcolor=black,
+    linkcolor=black
 }
 
-\setlength{\parindent}{0pt} % Remove indentation
-\setlist{nosep} % Reduce itemize/enumerate spacing
-\setstretch{1.15} % Slightly adjust line spacing
+\setlength{\parindent}{0pt}
+\setlist{nosep}
+\setstretch{1.15}
 
 \begin{document}
 \pagenumbering{gobble}
 
-\begin{center}
-  \href{https://jancyrusm.github.io}{\textbf{\Large Jan Cyrus M. Villar}} \\[-0.1em]
-  San Pedro, Laguna \\[-0.1em]
-  \href{mailto:jancyrus.villar@gmail.com}{jancyrus.villar@gmail.com} | +63 965 342 7601\\[-0.1em]
-  \href{https://github.com/jancyrusm}{github.com/jancyrusm} | \href{https://linkedin.com/in/jancyrusm}{linkedin.com/in/jancyrusm}
-\end{center}
+\href{https://jancyrusm.github.io}{\textbf{\Large Jan Cyrus M. Villar}} \hfill \href{mailto:jancyrus.villar@gmail.com}{jancyrus.villar@gmail.com} \\
+San Pedro, Laguna \hfill \href{https://github.com/jancyrusm}{github.com/jancyrusm} \\
++63 965 342 7601 \hfill \href{https://linkedin.com/in/jancyrusm}{linkedin.com/in/jancyrusm}
 
-\vspace{-1.5em}
+\vspace{-1em}
 
 \section*{Education}
+\vspace{-1.5em}
+\noindent\rule{\textwidth}{0.4pt}
 \noindent \textbf{Polytechnic University of the Philippines} \hfill \textit{Oct 2020 – Oct 2024} \\
 \textit{Bachelor of Science in Computer Engineering} \hfill Sta. Mesa, Manila \\
 Major in System and Software Development
 
-\vspace{-1.5em}
+\vspace{-1em}
 
 \section*{Experience}
+\vspace{-1.5em}
+\noindent\rule{\textwidth}{0.4pt}
 \noindent \textbf{Quality Assurance Analyst Intern} \hfill \textit{Sept 2023 – Feb 2024} \\
 Department of Science and Technology Central Office \hfill Bicutan, Taguig
 \begin{itemize}[leftmargin=0.5in]
-  \item Identified and documented software defects, improving product quality and streamlining QA and dev team communication.
-  \item Developed and executed test plans and test cases, ensuring thorough manual software testing and reducing risk of bugs in production.
-  \item Wrote basic test automation scripts using Selenium and Python, increasing testing efficiency and coverage.
+  \item Identified and documented software bugs, resulting in improved software quality and bridged communication between QA and development teams.
+  \item Developed and executed comprehensive test plans and test cases, ensuring thorough manual software testing and reducing the risk of bugs reaching production.
+  \item Wrote basic test automation scripts using Selenium and Python, increasing
+        testing efficiency and coverage.
 \end{itemize}
 \noindent \textbf{ICT Department Intern} \hfill \textit{Sept 2022 – Oct 2022} \\
 Comglasco Aguila Glass \hfill San Martin de Porres, Parañaque
 \begin{itemize}[leftmargin=0.5in]
-  \item Installed and configured computer systems and network devices, enabling seamless company operations and connectivity.
-  \item Provided troubleshooting and technical support, utilizing AnyDesk for remote assistance and minimizing downtime.
-  \item Assisted in managing IT asset inventory, contributing to accurate record-keeping and efficient resource allocation.
+  \item Installed and configured computer systems and network devices, enabling
+        seamless company operations and connectivity.
+  \item Provided troubleshooting and technical support, utilizing AnyDesk for remote
+        assistance and minimizing downtime.
+  \item Assisted in managing IT asset inventory, contributing to accurate
+        record-keeping and efficient resource allocation.
 \end{itemize}
 \noindent \textbf{Admin Department Intern} \hfill \textit{Nov 2019 – Dec 2019} \\
 Master Coating Industrial Technology, Inc. \hfill Biñan, Laguna
 \begin{itemize}[leftmargin=0.5in]
   \item Maintained company database, ensuring data accuracy and integrity.
-  \item Digitized documents through data entry, improving accessibility and streamlining information retrieval.
-  \item Supported various departments with clerical tasks, enhancing efficiency and productivity.
+  \item Digitized documents through data entry, improving accessibility and
+        streamlining information retrieval.
+  \item Supported various departments with clerical tasks, enhancing efficiency and
+        productivity.
 \end{itemize}
 
-\vspace{-1.5em}
+\vspace{-1em}
 
 \section*{Projects}
-\noindent \textbf{LaundroFill} \hfill \textit{HTML, CSS, JS, Node.js, C++}
+\vspace{-1.5em}
+\noindent\rule{\textwidth}{0.4pt}
+\noindent \href{https://github.com/jancyrusm/display-laudrofill}{\textbf{LaundroFill}} \hfill \textit{HTML, CSS, JS, Node.js, C++}
 \begin{itemize}[leftmargin=0.5in]
-  \item Led the development of an IoT-based liquid detergent dispensing machine.
-  \item Designed and implemented the dispensing algorithm using Arduino and C++.
-  \item Created the user interface using Figma, HTML, CSS, and JavaScript.
+  \item Led the embedded system development and microcontroller programming of an IoT-based liquid detergent dispensing machine based on Arduino and Raspberry Pi.
+  \item Designed and implemented the dispensing algorithm using C++.
+  \item Utilized Figma for UI/UX design, Git for version control, and Node.js for server-side development.
 \end{itemize}
-\noindent \textbf{Las Felipinas Chronicles} \hfill \textit{C\#, Unity}
+\noindent \href{https://github.com/jancyrusm/mobile-dev-final-las-filipinas-chronicles}{\textbf{Las Felipinas Chronicles}} \hfill \textit{C\#, Unity}
 \begin{itemize}[leftmargin=0.5in]
-  \item Collaborated with game designers to design and develop a "4 Pics 1 Word" detective game remake, highlighting Philippine history and culture.
+  \item Led the development of Las Felipinas Chronicles, a historical detective game utilizing Unity for game engine, C\# for scripting, and Asset Store resources for efficient development.
   \item Created game specifications and operating instructions.
 \end{itemize}
-\noindent \textbf{Chroma} \hfill \textit{C\#, Unity}
+\noindent \href{https://github.com/jancyrusm/game-dev-final-chroma}{\textbf{Chroma}} \hfill \textit{C\#, Unity}
 \begin{itemize}[leftmargin=0.5in]
-  \item Designed and developed a 2D game for an adventure-fighting platformer RPG using C\# and Unity.
-  \item Conducted testing and debugging to ensure smooth gameplay.
+  \item Designed and developed a 2D adventure-fighting platformer RPG using C\# and Unity.
+  \item Implemented a complex state machine in Chroma to manage character interactions and game progression.
   \item Maintained and updated gameplay features.
 \end{itemize}
 
-\vspace{-1.5em}
+\vspace{-1em}
 
 \section*{Skills}
+\vspace{-1.5em}
+\noindent\rule{\textwidth}{0.4pt}
 \begin{tabularx}{\textwidth}{@{}X r@{}}
-  \textbf{Programming Languages:} & C\#, C++, Python, JavaScript \\
-  \textbf{Development Languages:} & HTML, CSS, JavaScript, Node.js, Bootstrap, Firebase \\
+  \textbf{Programming:} & C\#, C++, Python, JavaScript                          \\
+  \textbf{Web Development:} & HTML5, CSS3, ES6, Node.js, Bootstrap, Firebase   \\
   \textbf{Software \& Tools:}     & Git, GitHub, Figma, Selenium, Arduino, AnyDesk, Unity \\
 \end{tabularx}
 
-\vspace{-0.75em}
+\vspace{-1em}
 
 \section*{Awards and Scholarships}
+\vspace{-1.5em}
+\noindent\rule{\textwidth}{0.4pt}
 \noindent \textbf{DOST-SEI S\&T Undergraduate Scholar} \hfill \textit{2020 - 2024} \\
 RA 7687 Scholarship Recipient
 

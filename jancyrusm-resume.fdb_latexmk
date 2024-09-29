@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1727623563.96257 "c:/Users/Cyrus/Documents/jancyrusm-resume/jancyrusm-resume.tex" "jancyrusm-resume.pdf" "jancyrusm-resume" 1727623564.77938 0
+["pdflatex"] 1727629762.22913 "c:/Users/Cyrus/Documents/jancyrusm-resume/jancyrusm-resume.tex" "jancyrusm-resume.pdf" "jancyrusm-resume" 1727629762.92762 0
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -31,7 +31,7 @@
   "C:/Program Files/MiKTeX/tex/latex/tools/multicol.sty" 1718356376 32621 00e86c03dbf6e71d7ea7ebac2bd4fcaf ""
   "C:/Program Files/MiKTeX/tex/latex/tools/tabularx.sty" 1718356376 7243 e5dac1240636811edb77568b81818372 ""
   "C:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "C:/Users/Cyrus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1727622302 82039 32c00b46ec68f3ddea0147d75839907f ""
+  "C:/Users/Cyrus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1727627955 82039 32c00b46ec68f3ddea0147d75839907f ""
   "C:/Users/Cyrus/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1727542133 11548 f46745a5bbb5980bcd28cf98d8f802ce ""
   "C:/Users/Cyrus/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1727542092 11938382 b7395866171c95f70c61aac7de2e8101 ""
   "C:/Users/Cyrus/AppData/Roaming/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
@@ -48,15 +48,16 @@
   "C:/Users/Cyrus/AppData/Roaming/MiKTeX/tex/latex/geometry/geometry.cfg" 1578053545 1104 7ac475a4e3466b0b43e138e9356bda83 ""
   "C:/Users/Cyrus/AppData/Roaming/MiKTeX/tex/latex/geometry/geometry.sty" 1578053545 42759 9cf6c5257b1bc7af01a58859749dd37a ""
   "C:/Users/Cyrus/AppData/Roaming/MiKTeX/tex/latex/hycolor/hycolor.sty" 1580380792 18571 4c28a13fc3d975e6e81c9bea1d697276 ""
+  "C:/Users/Cyrus/AppData/Roaming/MiKTeX/tex/latex/hyphenat/hyphenat.sty" 1251898220 5798 0437b031e663035b68539cf7ac7c8eeb ""
   "C:/Users/Cyrus/AppData/Roaming/MiKTeX/tex/latex/kvoptions/kvoptions.sty" 1656236481 22555 6d8e155cfef6d82c3d5c742fea7c992e ""
   "C:/Users/Cyrus/AppData/Roaming/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty" 1665066333 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "C:/Users/Cyrus/AppData/Roaming/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/Cyrus/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/Cyrus/AppData/Roaming/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
-  "c:/Users/Cyrus/Documents/jancyrusm-resume/jancyrusm-resume.tex" 1727623563 4555 ba0e478283f92716b1ef68894d9be271 ""
-  "jancyrusm-resume.aux" 1727623564 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "jancyrusm-resume.out" 1727623564 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "jancyrusm-resume.tex" 1727623563 4555 ba0e478283f92716b1ef68894d9be271 ""
+  "c:/Users/Cyrus/Documents/jancyrusm-resume/jancyrusm-resume.tex" 1727629761 5145 1d9a9b2208db5687ae05962b64dff38f ""
+  "jancyrusm-resume.aux" 1727629762 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "jancyrusm-resume.out" 1727629762 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "jancyrusm-resume.tex" 1727629761 5145 1d9a9b2208db5687ae05962b64dff38f ""
   (generated)
   "jancyrusm-resume.aux"
   "jancyrusm-resume.log"
